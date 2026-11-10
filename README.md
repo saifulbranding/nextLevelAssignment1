@@ -7,7 +7,7 @@ This project demonstrates practical problem-solving skills using TypeScript and 
 ## File Submitted: 
 
 solutions.ts
-[blog-name-1].md : link here
+[blog-name-1].md : [link here](https://github.com/saifulbranding/nextLevelAssignment1/blob/main/[blog-name-1].md)
 [blog-name-2].md : link here
 README.md
 
